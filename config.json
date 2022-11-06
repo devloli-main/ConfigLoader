@@ -1,0 +1,15 @@
+{
+    "name": "Devloli",
+    "age": 19,
+    "pronouns": ["he", "him"],
+    "country": "Thiland",
+    "languages": ["JavaScript", "C++", "C#", "HTML", "CSS"],
+    "hobbies": ["Sleeping", "Coding", "Watching Anime", "Reading Manga", "Playing Games"],
+    "status": "unemployed",
+    "askMeAbout": ["anime", "manga", "discord bots", "web dev", "software dev", "tools"],
+    "currentFocus": "discord bot development",
+    "contact": {
+        "email": "devloli@hotmail.com",
+        "discord": "Devloli#8883"
+    }
+}
