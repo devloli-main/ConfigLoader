@@ -2,7 +2,9 @@
 ConfigLoader is a class that will load the config.json file from the URL
 
 ## Images
-<img src="https://raw.githubusercontent.com/devloli-main/ConfigLoader/main/Images/ConfigLoader.png" width="500px"</img>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devloli-main/ConfigLoader/main/Images/ConfigLoader.png"></img>
+</div>
 
 ## Usage Example
 ```cs
